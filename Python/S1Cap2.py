@@ -54,3 +54,25 @@ print(f'Exibindo: {varT} or {varF}')
 Pausa pro café, cabo minhas energias da conta
 27/11/2025 - 15:46
 """
+
+# Voltei 28/11/2025 - 16:32
+# --- Nomenclatura ---
+# Realizar nomenclaturas boas
+# Exemplo:
+# * Ruim *
+isActive = False
+
+#* Boa *
+is_active = True
+
+# Opinião: em minha humild opinião o Ruim parece mais favoravel ao meu estilo de jeito,
+# mas fazer o que né...
+
+
+# Variáveis Vazias
+# None - representa "nada" ou "sem valor"
+empty_box = None 
+
+# Outro erro lindo que cometi na primeira tentativa, esqueci da letra N maiúscula...
+# Complicado
+
